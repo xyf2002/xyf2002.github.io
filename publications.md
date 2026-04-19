@@ -10,17 +10,17 @@ title: Publications
 
 *The people listed below have deeply influenced my research and growth. Their contributions have greatly enriched the work presented here. I am always open to collaboration and fully committed to every project I undertake!*
 
-- Edge LLMs: [Kai Li (CMU)](https://sites.google.com/site/lukasunsw/), [Zheng Lin (HKU)](https://xianhaochen.net/people), [Junfei Zhan (UPenn)](https://junfei-z.github.io/)
+- Edge LLMs: [Falko Dressler (TU Berlin)](https://www.tkn.tu-berlin.de/team/dressler/), [Kai Li (CMU)](https://sites.google.com/site/lukasunsw/), [Zheng Lin (HKU)](https://xianhaochen.net/people)
 - Wireless Communications: [Ozgur B. Akan](https://oba.eco/), [Haofan Dong](https://scholar.google.com/citations?user=tuhdAK0AAAAJ&hl=zh-CN), [Houtianfu Wang](https://ioe.eng.cam.ac.uk/staff/houtianfu-wang)
-- Wireless Networks: [Jon Crowcroft](https://www.cl.cam.ac.uk/~jac22/), [Zhezhuang Xu (FZU)](https://scholar.google.com/citations?hl=zh-CN&user=iZ7LQRkAAAAJ&view_op=list_works&sortby=pubdate), [Meng Yuan (VUW)](https://myuan27.github.io/)<br><br>
+- Wireless Networks: [Jon Crowcroft](https://www.cl.cam.ac.uk/~jac22/), [Zhezhuang Xu (FZU)](https://scholar.google.com/citations?hl=zh-CN&user=iZ7LQRkAAAAJ&view_op=list_works&sortby=pubdate), [Meng Yuan (VUW)](https://myuan27.github.io/), [Junfei Zhan (UPenn)](https://junfei-z.github.io/)<br><br>
 
 ## Submitted Paper (with arXiv links)
 
-- Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs<br>**Hanlin Cai**, Kai Li, Haofan Dong, Houtianfu Wang, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+- Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs<br>**Hanlin Cai**, Kai Li~~, Haofan Dong, Houtianfu Wang, Falko Dressler, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
 
   
 
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~~<br>Submitted to an IEEE ComSoc Magazine, 2025.<br>
+- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan<br>Submitted to an IEEE ComSoc Magazine, 2025.<br>
 
   
 
@@ -28,15 +28,23 @@ title: Publications
 
   
   
-- Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan~~<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+- [Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC](https://arxiv.org/abs/2604.10830)<br>Haofan Dong~~, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
 
   
   
-- [Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels](https://arxiv.org/abs/2510.19007)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan~~<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+- [Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
 
   
   
-- [Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan~~<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+- Measurement-Grounded Deadline Feasibility over LEO RF and Optical Access Links<br>Houtianfu Wang, Osman. T. Baydas, **Hanlin Cai**, Haofan Dong, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+
+  
+  
+- Physically-Induced Atmospheric Adversarial Perturbations: Enhancing Transferability and Robustness inRemote Sensing Image Classification<br>Weiwei Zhang, Wangze Xie, Qi Zhang, Xia Du, Zihan Lin, Zheng Lin, **Hanlin Cai**, Jizhe Zhou, Zihan Fang, Chi-man Pun, Wei Ni, Jun Luo<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+
+  
+  
+- [Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels](https://arxiv.org/abs/2510.19007)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
 
   <br>
 
