@@ -39,7 +39,7 @@ owner:
 # --------------------------------------------------
 google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
+google_analytics: "G-T5N5JY1E21"                                 # GA-4 measurement ID (used by _includes/gtag.html)
 
 
 # --------------------------------------------------
@@ -112,6 +112,7 @@ disqus:
 # --------------------------------------------------
 include: [".htaccess"]           # Files to force-include in the build
 exclude:                         # Folders/files ignored during build
+  - "backup"                     # Old drafts & duplicate permalinks; do not publish
   - "lib"
   - "config.rb"
   - "Capfile"
@@ -131,7 +132,6 @@ exclude:                         # Folders/files ignored during build
 plugins:
   - jekyll-feed          # Auto-generate RSS feed
   - jekyll-sitemap       # Auto-generate sitemap.xml
-  - jekyll-seo-tag       # Adds SEO meta tags & JSON-LD
 #   - jekyll-picture-tag   # Responsive images & WebP/AVIF
   # - jekyll-archives      # Year/month archive pages
 

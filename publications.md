@@ -83,7 +83,7 @@ title: Publications
 
 ## Early Paper (during Undergrad)
 
-- [Securing Billion Bluetooth Devices Leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final-year project ([see thesis below](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
+- [Securing Billion Bluetooth Devices Leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final-year project ([see thesis below]({{ site.url }}/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
 
   
 
@@ -95,11 +95,11 @@ title: Publications
 
 ## Degree Thesis
 
-- [Semantic Communication for the Internet of Everything: From Molecular to Space Networks](https://caihanlin.com/mypaper/thesis/MPhil_thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Ozgur B. Akan).<br>Examiners: [Dr. Sasitharan Balasubramaniam](https://computing.unl.edu/person/sasitharan-balasubramaniam/), [Dr. Qixiang Cheng](https://www.eng.cam.ac.uk/profiles/qc223).<br>Thesis awarded High Distinction.<br>
+- [Semantic Communication for the Internet of Everything: From Molecular to Space Networks]({{ site.url }}/mypaper/thesis/MPhil_thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Ozgur B. Akan).<br>Examiners: [Dr. Sasitharan Balasubramaniam](https://computing.unl.edu/person/sasitharan-balasubramaniam/), [Dr. Qixiang Cheng](https://www.eng.cam.ac.uk/profiles/qc223).<br>Thesis awarded High Distinction.<br>
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Zhezhuang Xu).<br>Best Bachelor Thesis Award (top 1/300, the highest score of year 2024).<br>
+- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks]({{ site.url }}/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Zhezhuang Xu).<br>Best Bachelor Thesis Award (top 1/300, the highest score of year 2024).<br>
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Yuxiong Xia).<br>Industrial Placement Report at China Fuzhou Huading Tech. (Third-year industrial progrom).<br>
+- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot]({{ site.url }}/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Yuxiong Xia).<br>Industrial Placement Report at China Fuzhou Huading Tech. (Third-year industrial progrom).<br>
 
   <br>
 
