@@ -40,7 +40,7 @@ title: Publications
 
   
   
-- Physically-Induced Atmospheric Adversarial Perturbations: Enhancing Transferability and Robustness inRemote Sensing Image Classification<br>Weiwei Zhang, Wangze Xie, Qi Zhang, Xia Du, Zihan Lin, Zheng Lin, **Hanlin Cai**, Jizhe Zhou, Zihan Fang, Chi-man Pun, Wei Ni, Jun Luo<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+- [Physically-Induced Atmospheric Adversarial Perturbations: Enhancing Transferability and Robustness in Remote Sensing Image Classification](https://arxiv.org/abs/2604.14643)<br>Weiwei Zhang, Wangze Xie, Qi Zhang, Xia Du, Zihan Lin, Zheng Lin, **Hanlin Cai**, Jizhe Zhou, Zihan Fang, Chi-man Pun, Wei Ni, Jun Luo<br>Submitted to an IEEE Transaction Journal, 2026.<br>
 
   
   
