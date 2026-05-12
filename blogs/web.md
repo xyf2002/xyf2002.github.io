@@ -112,7 +112,7 @@ title: web
 
 ```yaml
 title: Hanlin Cai
-url: https://caihanlin.com
+url: "https://your-username.github.io"  # 若绑定个人域名，则改为 https://example.com
 
 owner: 
   name: Hanlin Cai
@@ -158,7 +158,7 @@ links:
 
 ### (5) 文件链接配置
 
-现在，聪明的你可能又发现了，在笔者的站点中，点击[Here is my Resume](https://caihanlin.com/file/CV-HanlinCAI.pdf)，就可以访问笔者的个人简历。也就是说，你只需要甩给别人一个链接，就可以实时访问你的最新简历，而不用重复发送最新版简历，这真是太方便了！
+现在，聪明的你可能又发现了，在笔者的站点中，点击[Here is my Resume](/file/CV-HanlinCAI.pdf)，就可以访问笔者的个人简历。也就是说，你只需要甩给别人一个链接，就可以实时访问你的最新简历，而不用重复发送最新版简历，这真是太方便了！
 
 <br>于是，笔者要引入Jekyll静态站点的第二条哲学了：**二次元站点世界，是由链接构成的**。
 
@@ -178,16 +178,16 @@ links:
 
 <br>回到正题，上面说到，图片媒体的配置，可以通过“相对地址”（亦可以使用绝对地址）
 
-<br>而这里的文件配置链接，**则必须使用“绝对地址”。**
+<br>而这里的文件配置链接，**推荐使用以 `/` 开头的站点根路径**（例如 `/file/...`），这样在更换域名或 Fork 本仓库时不必改每一处链接。
 
 <br>![image-20230427110918118](web.assets/image-20230427110918118.png)
 
-<br>比如，在笔者站点中的`project.md`, `publications.md`等页面中，都有需要超链接地址，可以直接访问`mypaper`文件夹下的PDF文件，这就是通过绝对地址实现的，下面是配置方法：
+<br>比如，在笔者站点中的`project.md`, `publications.md`等页面中，都有需要超链接地址，可以直接访问`mypaper`文件夹下的PDF文件，用根路径即可实现，下面是配置方法：
 
 ```markdown
-[Here is my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf)
+[Here is my Resume](/file/Resume-HanlinCAI.pdf)
 [] 里面放置你想显示的内容文本
-() 紧跟着，放置文件的绝对地址
+() 紧跟着，放置以 / 开头的站点根路径（或配合 _config.yml 中 url 使用完整域名）
 ```
 
 这样，我们就完成了图片媒体和文档媒体的配置过程，现在你应该感到非常兴奋对吧？学习技术就是如此富有魅力的过程，今天又是收获满满的一天！

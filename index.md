@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="{{ "/caihanlin.jpg" | relative_url }}" class="floatpic" alt="Hanlin Cai">
 
 <br>Here is **Hanlin Cai** (Lance, 蔡汉霖).<br>
 
@@ -22,7 +22,7 @@ layout: page
 
 - Edge LLMs
 - LLM Networking
-- Attack, Defense, Reslience
+- Attack, Defense, Resilience
 
 
 ---
