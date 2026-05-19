@@ -6,6 +6,8 @@ title: 夏驭风的个人主页
 
 ## 关于我
 
+<img src="{{ "/images/xyf.png" | relative_url }}" class="floatpic" alt="夏驭风">
+
 <br>我是 **夏驭风**——爱丁堡大学计算机科学学院 [计算系统架构研究所（ICSA）](https://web.inf.ed.ac.uk/icsa) 的硕士研究生（MSc by Research），师从 [Mahesh K. Marina 教授](https://homepages.inf.ed.ac.uk/mmarina/)。我也是[网络系统（NetSys）研究组](https://netsys.inf.ed.ac.uk/)的成员。
 
 <br>我的研究方向位于 **网络与机器学习系统的交叉领域**，专注于为边缘分布式机器学习构建可扩展、高效的系统。我感兴趣于如何将通信基础设施重新构想为机器学习工作负载的平台，创造网络与人工智能之间的共生关系。
