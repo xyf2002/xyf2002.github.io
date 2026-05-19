@@ -8,9 +8,13 @@ title: Publications
 
 ## Research and Publications
 
-### Conference Papers
+### Workshop Papers
 
 - **Morphling: Emulator for Distributed Machine Learning at the Edge**<br>Leyang Xue, **Yufeng Xia**, Eren Mendi, Ismaeel Bashir, Jiaxun Yang, Myungjin Lee, Mahesh Marina<br>**EdgeSys 2026** (In Proceedings).<br>
+
+- **HAQSS: High-precision Adaptive Quantization Based on Sensor's Specification**<br>Pei Mu\*, **Yufeng Xia\***, Antonio Barbalace<br>(\* equal contribution)<br>
+
+### Conference Papers
 
 - **Weaver: Foundation Model Training over AI-RAN Compute Infrastructure**<br>Leyang Xue, Tianxin Wang, Xin Zhe Khooi, Jiaxun Yang, Dheeraj Mahendiran, **Yufeng Xia**, Mun Choon Chan, Myungjin Lee, Mahesh Marina<br>**MobiCom 2026** (Under Review).<br>
 
