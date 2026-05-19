@@ -22,7 +22,7 @@ title: Publications
 
 - **CoSense: Auto-Quantization Based on Sensor Specifications for Compiler Optimizations**<br>**Yufeng Xia**, Pei Mu, Antonio Barbalace<br>**ACM TACO** (Under Review).<br>
 
----
+<!--
 
 ## Collaborators
 
@@ -33,3 +33,4 @@ The individuals listed below have profoundly shaped my research and development.
 - **Compiler & Systems:** Pei Mu
 
 <br>
+-->

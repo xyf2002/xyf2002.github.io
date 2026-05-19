@@ -10,7 +10,7 @@ I am deeply passionate about kernel development and a committed Linux user. I ha
 
 ## Table Tennis
 
-An avid table tennis player, actively participating in school club activities and contributing to team dynamics and skill development. I have competed at national level (BUCS) and achieved recognition in Edinburgh Championship competitions.
+An avid table tennis player, actively participating in school club activities and contributing to team dynamics and skill development. I have competed at national level (BUCS, Edinburgh BUCS M1), as well as Edinburgh Local league competing at first division.
 
 ## Cycling and Fitness
 
