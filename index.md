@@ -8,7 +8,7 @@ layout: page
 
 <br>I am **Yufeng Xia**（**夏驭风**）— a first-year MSc by Research student at the **[Institute for Computing Systems Architecture (ICSA)](https://web.inf.ed.ac.uk/icsa)** at the **University of Edinburgh**, supervised by **[Prof. Mahesh K. Marina](https://homepages.inf.ed.ac.uk/mmarina/)**. I am also a member of the **[Networked Systems (NetSys) Group](https://netsys.inf.ed.ac.uk/)**.
 
-<br>My research lies at the intersection of **Networking and ML Systems**, with a focus on building scalable, efficient systems for distributed machine learning at the edge. I am particularly interested in **AI-RAN** — reimagining radio access network (RAN) infrastructure as a shared compute platform for ML workloads, enabling opportunistic foundation model training on GPU-accelerated RAN hardware without compromising primary network functions.
+<br>My research lies at the intersection of **Networking and ML Systems**, with a focus on building scalable, efficient systems for distributed machine learning at the edge. I am interested in how communication and RAN infrastructure can be reimagined as a platform for ML workloads, creating symbiotic relationships between networks and AI.
 
 <br>Previously, I undertook summer research with **[Antonio Barbalace](https://www.barbalace.it/antonio/)** (Systems-Nuts research group), focusing on compiler optimization. I also obtained my B.Sc. in Computer Science from the University of Edinburgh with **First Class Honours**.
 
