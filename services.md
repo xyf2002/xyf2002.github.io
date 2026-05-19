@@ -13,7 +13,7 @@ title: Services
 
 ### Volunteer
 
-- **EuroSys 2026** — On-site Volunteer Staff<br>Supported conference operations, registration, session coordination, and attendee assistance. Interacted with researchers in operating systems and networked systems.
+- **[EuroSys 2026](https://2026.eurosys.org/)** — On-site Volunteer Staff<br>Supported conference operations, registration, session coordination, and attendee assistance. Interacted with researchers in operating systems and networked systems.
 
 ### Community Service
 
