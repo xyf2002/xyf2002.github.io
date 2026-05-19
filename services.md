@@ -7,6 +7,10 @@ title: Services
 
 ## Academic Services
 
+### Teaching
+
+- **Teaching Assistant (Coursework Marker)** — School of Informatics, The University of Edinburgh (Jan 2026 - Present)<br>Provided marking and feedback for undergraduate coursework (CGGS). Evaluated student submissions against formal grading criteria, ensuring consistency and fairness.
+
 ### Volunteer
 
 - **EuroSys 2026** — On-site Volunteer Staff<br>Supported conference operations, registration, session coordination, and attendee assistance. Interacted with researchers in operating systems and networked systems.
