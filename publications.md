@@ -6,13 +6,9 @@ title: Publications
 
 ---
 
+> (†: equal contribution)
+
 ## Research and Publications
-
-### Workshop Papers
-
-- **Morphling: Emulator for Distributed Machine Learning at the Edge**<br>Leyang Xue, **Yufeng Xia**, Eren Mendi, Ismaeel Bashir, Jiaxun Yang, Myungjin Lee, Mahesh Marina<br>**EdgeSys 2026** (In Proceedings).<br>
-
-- **HAQSS: High-precision Adaptive Quantization Based on Sensor's Specification**<br>Pei Mu\*, **Yufeng Xia\***, Antonio Barbalace<br>(\* equal contribution)<br>
 
 ### Conference Papers
 
@@ -21,6 +17,12 @@ title: Publications
 - **EmuRAN: Scalable and Cost-Effective Cloud-based RAN Emulation System**<br>Ujjwal Pawar, Andrew E. Ferguson, **Yufeng Xia**, Xenofon Foukas, Mahesh Marina, Bozidar Radunovic<br>**MobiCom 2026** (Under Review).<br>
 
 - **WASP: Foundation Model Training System for the Edge**<br>Leyang Xue, **Yufeng Xia**, Myungjin Lee, Mahesh Marina<br>**SEC 2026** (Under Review).<br>
+
+### Workshop Papers
+
+- **Morphling: Emulator for Distributed Machine Learning at the Edge**<br>Leyang Xue, **Yufeng Xia**, Eren Mendi, Ismaeel Bashir, Jiaxun Yang, Myungjin Lee, Mahesh Marina<br>**EdgeSys 2026** (In Proceedings).<br>
+
+- **HAQSS: High-precision Adaptive Quantization Based on Sensor's Specification**<br>Pei Mu†, **Yufeng Xia†**, Antonio Barbalace<br>
 
 ### Journal Papers
 
