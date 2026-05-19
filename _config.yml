@@ -1,7 +1,7 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Yufeng (Alex) Xia   # Main site title (appears in browser tab & RSS)
+title: Yufeng Xia   # Main site title (appears in browser tab & RSS)
 tagline: Personal website of Yufeng Xia. MSc by Research Student at the University of Edinburgh.
 description: Yufeng Xia — MSc by Research in Computer Science at the University of Edinburgh. Research at the intersection of Networking and ML Systems.
 
@@ -13,7 +13,7 @@ url: https://xyf2002.github.io
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Yufeng (Alex) Xia
+  name: Yufeng Xia
   # avatar:
   # bio:
   email: yufeng.xia@ed.ac.uk
@@ -48,8 +48,6 @@ links:
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
   - title: 中文
     url: /cn/
 

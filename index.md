@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<br>I am **Yufeng (Alex) Xia** — a first-year MSc by Research student at the [Institute for Computing Systems Architecture (ICSA)](https://web.inf.ed.ac.uk/icsa) at the **University of Edinburgh**, supervised by [Prof. Mahesh K. Marina](https://homepages.inf.ed.ac.uk/mmarina/). I am also a member of the [Networked Systems (NetSys) Group](https://netsys.inf.ed.ac.uk/).
+<br>I am **Yufeng Xia** — a first-year MSc by Research student at the [Institute for Computing Systems Architecture (ICSA)](https://web.inf.ed.ac.uk/icsa) at the **University of Edinburgh**, supervised by [Prof. Mahesh K. Marina](https://homepages.inf.ed.ac.uk/mmarina/). I am also a member of the [Networked Systems (NetSys) Group](https://netsys.inf.ed.ac.uk/).
 
 <br>My research lies at the intersection of **Networking and ML Systems**, with a focus on building scalable, efficient systems for distributed machine learning at the edge. I am interested in how communication infrastructure can be reimagined as a platform for ML workloads, creating symbiotic relationships between networks and AI.
 

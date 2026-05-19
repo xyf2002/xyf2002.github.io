@@ -1,6 +1,6 @@
 # xyf2002.github.io
 
-Personal website of **Yufeng (Alex) Xia**.
+Personal website of **Yufeng Xia**.
 
 MSc by Research student at the University of Edinburgh. Research at the intersection of Networking and ML Systems.
 

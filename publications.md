@@ -22,10 +22,6 @@ title: Publications
 
 - **CoSense: Auto-Quantization Based on Sensor Specifications for Compiler Optimizations**<br>**Yufeng Xia**, Pei Mu, Antonio Barbalace<br>**ACM TACO** (Under Review).<br>
 
-### Undergraduate Projects
-
-- **Enhanced Pneumonia Detection in Chest X-Rays Based on Integrated Denoising Autoencoders and Convolutional Neural Networks**<br>**Yufeng Xia**<br>2024.<br>
-
 ---
 
 ## Collaborators
