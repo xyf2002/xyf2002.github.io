@@ -12,11 +12,11 @@ title: Publications
 
 ### Conference Papers
 
-- **Weaver: Foundation Model Training over AI-RAN Compute Infrastructure**<br>Leyang Xue, Tianxin Wang, Xin Zhe Khooi, Jiaxun Yang, Dheeraj Mahendiran, **Yufeng Xia**, Mun Choon Chan, Myungjin Lee, Mahesh Marina<br>**MobiCom 2026** (Under Review).<br>
+- **Weaver: Foundation Model Training over AI-RAN Compute Infrastructure**<br>Leyang Xue, Tianxin Wang, Xin Zhe Khooi, Jiaxun Yang, Dheeraj Mahendiran, **Yufeng Xia**, Mun Choon Chan, Myungjin Lee, Mahesh Marina<br>Under Submission.<br>
 
-- **EmuRAN: Scalable and Cost-Effective Cloud-based RAN Emulation System**<br>Ujjwal Pawar†, Andrew E. Ferguson†, **Yufeng Xia**, Xenofon Foukas, Mahesh Marina, Bozidar Radunovic<br>**MobiCom 2026** (Under Review).<br>
+- **EmuRAN: Scalable and Cost-Effective Cloud-based RAN Emulation System**<br>Ujjwal Pawar†, Andrew E. Ferguson†, **Yufeng Xia**, Xenofon Foukas, Mahesh Marina, Bozidar Radunovic<br>Under Submission.<br>
 
-- **WASP: Foundation Model Training System for the Edge**<br>Leyang Xue, **Yufeng Xia**, Myungjin Lee, Mahesh Marina<br>**SEC 2026** (Under Review).<br>
+- **WASP: Foundation Model Training System for the Edge**<br>Leyang Xue, **Yufeng Xia**, Myungjin Lee, Mahesh Marina<br>Under Submission.<br>
 
 ### Workshop Papers
 
@@ -26,7 +26,7 @@ title: Publications
 
 ### Journal Papers
 
-- **CoSenseAQ: Compiler Optimizations using Sensor Technical Specifications with Automatic Quantization**<br>**Yufeng Xia†**, Pei Mu†, Antonio Barbalace<br>**ACM TACO** (Under Review).<br>
+- **CoSenseAQ: Compiler Optimizations using Sensor Technical Specifications with Automatic Quantization**<br>**Yufeng Xia†**, Pei Mu†, Antonio Barbalace<br>Under Submission.<br>
 
 <!--
 
