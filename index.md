@@ -14,7 +14,7 @@ layout: page
 
 <br>Recently, my work has focused on **AI-native RAN (AI-RAN)** and **Digital Twin** systems, where real-time network environments are tightly coupled with data-driven models to enable adaptive, resource-efficient, and intelligent system behavior at scale.
 
-<br>Previously, I undertook summer research with **[Antonio Barbalace](https://www.barbalace.it/antonio/)** (Systems-Nuts research group), focusing on compiler optimization. I also obtained my B.Sc. in Computer Science from the University of Edinburgh with **First Class Honours**.
+<br>Previously, I undertook summer research with **[Antonio Barbalace](https://www.barbalace.it/antonio/)** ([Systems-Nuts research group](https://webiste-systems-nuts.pages.dev/)), focusing on compiler optimization. I also obtained my B.Sc. in Computer Science from the University of Edinburgh with **First Class Honours**.
 
 <br>I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **yufeng.xia [at] ed.ac.uk**.
 
