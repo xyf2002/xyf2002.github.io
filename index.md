@@ -4,34 +4,36 @@ layout: page
 
 ## About Me
 
-<img src="{{ "/caihanlin.jpg" | relative_url }}" class="floatpic" alt="Hanlin Cai">
+<img src="{{ "/images/xyf.png" | relative_url }}" class="floatpic" alt="Yufeng Xia">
 
-<br>Here is **Hanlin Cai** (Lance, 蔡汉霖).<br>
+<br>I am **Yufeng Xia**（**夏驭风**）— a first-year MSc by Research student at the **[Institute for Computing Systems Architecture (ICSA)](https://web.inf.ed.ac.uk/icsa)** at the **University of Edinburgh**, supervised by **[Prof. Mahesh K. Marina](https://homepages.inf.ed.ac.uk/mmarina/)**. I am also a member of the **[Networked Systems (NetSys) Group](https://netsys.inf.ed.ac.uk/)**.
 
-<br>I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, where I am fortunate to be supervised by [Ozgur B. Akan](https://oba.eco/), and advised by [Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) and [Kai Li](https://sites.google.com/site/lukasunsw/Home).
+<br>My research lies at the intersection of **Networking and ML Systems**, with a focus on building scalable and efficient systems for distributed machine learning at the edge.
 
-<br>My research is supported by the Cambridge Trust Scholarship and China Scholarship Council. Previously, I was very pleased to undertake summer research with [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+<br>I am particularly interested in reimagining communication and **Radio Access Network (RAN)** infrastructure as a unified platform for ML workloads, enabling a symbiotic relationship between network systems and AI.
 
-<br>Prior to joining Cambridge, I worked on wireless networks and cybersecurity under the guidance of [Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Meng Yuan](https://myuan27.github.io/). Additionally, I was honored to be selected as an outstanding undergraduate scholar at leading AI conferences, including AAAI 2024 and SIGKDD 2024.
+<br>Recently, my work has focused on **AI-native RAN (AI-RAN)** and **Digital Twin** systems, where real-time network environments are tightly coupled with data-driven models to enable adaptive, resource-efficient, and intelligent system behavior at scale.
 
-<br>I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **hc663 [at] cam.ac.uk**
+<br>Previously, I undertook summer research with **[Antonio Barbalace](https://www.barbalace.it/antonio/)** ([Systems-Nuts research group](https://webiste-systems-nuts.pages.dev/)), focusing on compiler optimization. I also obtained my B.Sc. in Computer Science from the University of Edinburgh with **First Class Honours**.
+
+<br>I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **yufeng.xia [at] ed.ac.uk**.
 
 ---
 
 ## Research Interests
 
-- Edge LLMs
-- LLM Networking
-- Attack, Defense, Resilience
-
+- Distributed Machine Learning Systems
+- Edge Computing and Edge ML
+- Networking and ML Systems Co-Design
+- Network Digital Twin
+- Compiler Optimization
 
 ---
 
 ## News and Updates
 
-- **Nov 2025**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge Trust and CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+- **Apr 2026**: Our paper *Morphling: Emulator for Distributed Machine Learning at the Edge* accepted at **[EdgeSys 2026](https://edge-sys.github.io/2026/)**!
+- **Apr 2026**: Serving as a Volunteer Staff at **[EuroSys 2026](https://2026.eurosys.org/)**.
+- **Sep 2025**: Started MSc by Research in Computer Science at the University of Edinburgh.
+- **May 2025**: Graduated with **First Class Honours** in B.Sc. Computer Science.
+- **Mar 2024**: Started as Junior Research Assistant at ICSA, University of Edinburgh.
