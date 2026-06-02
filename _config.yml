@@ -100,6 +100,7 @@ kramdown:
 include: [".htaccess"]           # Files to force-include in the build
 exclude:                         # Folders/files ignored during build
   - "backup"                     # Old drafts & duplicate permalinks; do not publish (no static assets here — use /images/ or site root)
+  - "vendor"                     # Bundler-installed gems
   - "lib"
   - "config.rb"
   - "Capfile"
