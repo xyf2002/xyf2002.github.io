@@ -12,21 +12,21 @@ title: Publications
 
 ### Conference Papers
 
-- **Weaver: Foundation Model Training over AI-RAN Compute Infrastructure**<br>Leyang Xue, Tianxin Wang, Xin Zhe Khooi, Jiaxun Yang, Dheeraj Mahendiran, **Yufeng Xia**, Mun Choon Chan, Myungjin Lee, Mahesh Marina<br>Under Submission.<br>
+- Weaver: Foundation Model Training over AI-RAN Compute Infrastructure<br>Leyang Xue, Tianxin Wang, Xin Zhe Khooi, Jiaxun Yang, Dheeraj Mahendiran, **Yufeng Xia**, Mun Choon Chan, Myungjin Lee, Mahesh Marina<br>Under Submission.<br>
 
-- **EmuRAN: Scalable and Cost-Effective Cloud-based RAN Emulation System**<br>Ujjwal Pawar†, Andrew E. Ferguson†, **Yufeng Xia**, Xenofon Foukas, Mahesh Marina, Bozidar Radunovic<br>Under Submission.<br>
+- EmuRAN: Scalable and Cost-Effective Cloud-based RAN Emulation System<br>Ujjwal Pawar†, Andrew E. Ferguson†, **Yufeng Xia**, Xenofon Foukas, Mahesh Marina, Bozidar Radunovic<br>Under Submission.<br>
 
-- **WASP: Foundation Model Training System for the Edge**<br>Leyang Xue, **Yufeng Xia**, Myungjin Lee, Mahesh Marina<br>Under Submission.<br>
+- WASP: Foundation Model Training System for the Edge<br>Leyang Xue, **Yufeng Xia**, Myungjin Lee, Mahesh Marina<br>Under Submission.<br>
 
 ### Workshop Papers
 
-- **Morphling: Emulator for Distributed Machine Learning at the Edge**<br>Leyang Xue, **Yufeng Xia**, Eren Mendi, Ismaeel Bashir, Jiaxun Yang, Myungjin Lee, Mahesh Marina<br>**[EdgeSys 2026](https://edge-sys.github.io/2026/)** (In Proceedings).<br>
+- [Morphling: Emulator for Distributed Machine Learning at the Edge](https://dl.acm.org/doi/10.1145/3812836.3814779)<br>Leyang Xue, **Yufeng Xia**, Eren Mendi, Ismaeel Bashir, Jiaxun Yang, Myungjin Lee, Mahesh Marina<br>EdgeSys 2026.<br>
 
-- **HAQSS: High-precision Adaptive Quantization Based on Sensor's Specification**<br>Pei Mu†, **Yufeng Xia†**, Antonio Barbalace<br>**MobiUK 2025**.<br>
+- HAQSS: High-precision Adaptive Quantization Based on Sensor's Specification<br>Pei Mu†, **Yufeng Xia†**, Antonio Barbalace<br>**MobiUK 2025**.<br>
 
 ### Journal Papers
 
-- **CoSenseAQ: Compiler Optimizations using Sensor Technical Specifications with Automatic Quantization**<br>**Yufeng Xia†**, Pei Mu†, Antonio Barbalace<br>Under Submission.<br>
+- CoSenseAQ: Compiler Optimizations using Sensor Technical Specifications with Automatic Quantization<br>**Yufeng Xia†**, Pei Mu†, Antonio Barbalace<br>Under Submission.<br>
 
 <!--
 
