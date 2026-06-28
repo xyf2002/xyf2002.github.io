@@ -32,6 +32,7 @@ layout: page
 
 ## News and Updates
 
+- **Jun 2026**: Attended **[MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)**, awarded the **Best Paper Award** at **[EdgeSys 2026](https://edge-sys.github.io/2026/)** for *Morphling: Emulator for Distributed Machine Learning at the Edge*.
 - **Apr 2026**: Our paper *[Morphling: Emulator for Distributed Machine Learning at the Edge](https://dl.acm.org/doi/10.1145/3812836.3814779)* accepted at **[EdgeSys 2026](https://edge-sys.github.io/2026/)**!
 - **Apr 2026**: Serving as a Volunteer Staff at **[EuroSys 2026](https://2026.eurosys.org/)**.
 - **Sep 2025**: Started MSc by Research in Computer Science at the University of Edinburgh.
