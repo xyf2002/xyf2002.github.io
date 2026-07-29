@@ -14,7 +14,7 @@ title: Publications
 
 - Weaver: Foundation Model Training over AI-RAN Compute Infrastructure<br>Leyang Xue, Tianxin Wang, Xin Zhe Khooi, Jiaxun Yang, Dheeraj Mahendiran, **Yufeng Xia**, Mun Choon Chan, Myungjin Lee, Mahesh Marina<br>Under Submission.<br>
 
-- EmuRAN: Scalable and Cost-Effective Cloud-based RAN Emulation System<br>Ujjwal Pawar†, Andrew E. Ferguson†, **Yufeng Xia**, Xenofon Foukas, Mahesh Marina, Bozidar Radunovic<br>**ACM MobiCom 2026 — Conditionally Accepted.**<br>
+- EmuRAN: Scalable and Cost-Effective Cloud-based RAN Emulation System<br>Ujjwal Pawar†, Andrew E. Ferguson†, **Yufeng Xia**, Xenofon Foukas, Mahesh Marina, Bozidar Radunovic<br>ACM MobiCom 2026 — Conditionally Accepted.<br>
 
 - WASP: Foundation Model Training System for the Edge<br>Leyang Xue, **Yufeng Xia**, Myungjin Lee, Mahesh Marina<br>Under Submission.<br>
 
