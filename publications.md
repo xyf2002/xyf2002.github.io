@@ -22,7 +22,7 @@ title: Publications
 
 - [Morphling: Emulator for Distributed Machine Learning at the Edge](https://dl.acm.org/doi/10.1145/3812836.3814779)<br>Leyang Xue, **Yufeng Xia**, Eren Mendi, Ismaeel Bashir, Jiaxun Yang, Myungjin Lee, Mahesh Marina<br>EdgeSys 2026.<br>
 
-- HAQSS: High-precision Adaptive Quantization Based on Sensor's Specification<br>Pei Mu†, **Yufeng Xia†**, Antonio Barbalace<br>**MobiUK 2025**.<br>
+- HAQSS: High-precision Adaptive Quantization Based on Sensor's Specification<br>Pei Mu†, **Yufeng Xia†**, Antonio Barbalace<br>MobiUK 2025.<br>
 
 ### Journal Papers
 
