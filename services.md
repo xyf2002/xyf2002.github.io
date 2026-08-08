@@ -9,7 +9,7 @@ title: Services
 
 ### Teaching
 
-- **Teaching Assistant (Coursework Marker)** — School of Informatics, The University of Edinburgh (Jan 2026 - Present)<br>Provided marking and feedback for undergraduate coursework (CGGS). Evaluated student submissions against formal grading criteria, ensuring consistency and fairness.
+- **Teaching Assistant (Coursework Marker)** — School of Informatics, The University of Edinburgh (Jan 2026 - April 2026)<br>Provided marking and feedback for undergraduate coursework (CGGS). Evaluated student submissions against formal grading criteria, ensuring consistency and fairness.
 
 ### Volunteer
 
