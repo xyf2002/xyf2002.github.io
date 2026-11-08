@@ -17,7 +17,7 @@ owner:
   avatar: icon.png
   # bio:
   email: yufeng.xia@ed.ac.uk
-  # cv:
+  cv: /yufengCV.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: xyf2002
@@ -49,6 +49,9 @@ links:
     url: /awards/
   - title: Hobbies
     url: /hobbies/
+  - title: CV
+    url: /yufengCV.pdf
+    external: true
 
 
 # --------------------------------------------------
