@@ -16,7 +16,7 @@ title: Publications
 
 - [Chronos: Scalable and Cost-Effective Cloud-based RAN Emulation System](https://dl.acm.org/doi/10.1145/3795866.3844156)<br>Ujjwal Pawar†, Andrew E. Ferguson†, **Yufeng Xia**, Xenofon Foukas, Mahesh Marina, Bozidar Radunovic<br>ACM MobiCom 2026.<br>
 
-- WASP: Foundation Model Training System for the Edge<br>Leyang Xue, **Yufeng Xia**, Myungjin Lee, Mahesh Marina<br>Under Submission.<br>
+- [WASP: Foundation Model Training System for the Edge](https://www.research.ed.ac.uk/en/publications/wasp-foundation-model-training-system-for-the-edge/)<br>Leyang Xue, **Yufeng Xia**, Myungjin Lee, Mahesh K. Marina<br>ACM/IEEE SEC 2026.<br>
 
 ### Workshop Papers
 
